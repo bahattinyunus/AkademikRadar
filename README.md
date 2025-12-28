@@ -3,113 +3,137 @@
 <div align="center">
 
 # 🛰️ AKADEMİK RADAR
-### *Academic Intelligence & Future Prediction Platform*
+### *Elite Academic Intelligence & Predictive Analytics Platform*
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github)](https://github.com/bahattinyunus/AkademikRadar)
+[![System Status](https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge&logo=prometheus&logoColor=white)](https://github.com/bahattinyunus/AkademikRadar)
+[![Neural Core](https://img.shields.io/badge/NEURAL%20CORE-ACTIVE-blueviolet?style=for-the-badge&logo=probot)](https://github.com/bahattinyunus/AkademikRadar)
+[![Intelligence Level](https://img.shields.io/badge/INTELLIGENCE-LEVEL%205-orange?style=for-the-badge&logo=openai)](https://github.com/bahattinyunus/AkademikRadar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)](https://github.com/psf/black)
 
-> **"Gelecek, onu bugün görenler tarafından inşa edilir."**
+> **"Geleceği tahmin etmenin en iyi yolu, onu veriden inşa etmektir."**
+> *"The best way to predict the future is to construct it from data."*
 
-[Vizyon](#-vizyonumuz) • [Kurulum](#-kurulum-ve-katkı) • [Teknoloji](#-mimari-ve-teknoloji) • [İletişim](#-proje-mimarı-project-architect)
+[Manifesto](#-manifesto-bilginin-kartografisi) • [Neural Architecture](#-neural-architecture-ve-teknik-derinlik) • [Ignition](#-ignition-sistemi-ba%C5%9Flatma) • [Project Architect](#-project-architect-system-creator)
 
 </div>
 
 ---
 
-## 🌌 "Veri Okyanusunda Bir Deniz Feneri Değil, Bir GPS."
+## 🌌 MANIFESTO: Bilginin Kartografisi
 
-Akademik Radar, her gün yayınlanan binlerce makale arasında kaybolan araştırmacılar için tasarlanmış yeni nesil bir **Akademik İstihbarat Platformu**dur. Geleneksel tarama yöntemlerinin ötesine geçer; yapay zeka ile **anlamı kavrar**, ağ analizi ile **bağlantıları keşfeder** ve **gelecekteki trendleri** bugünden size fısıldar.
+Bilimsel üretim hızı, insan algısının sınırlarını çoktan aştı. Her gün yayınlanan binlerce makale, insanlığın kolektif hafızasına eklenen yeni nöronlardır.
 
-```text
-       .                 .                   .
- .         _...._            .           .
-      .  .:::.    .   .  .     .      .
-  .     .:::::     .         .     .   .
-    .   .:::::  .       .       .
-  .     .:::::        .            .
-      .  ':::'   .        .
-   .      '  '       .          .
-      .     .        .
-```
+> **Daha derin felsefemizi okumak için: [📄 MANIFESTO.md](MANIFESTO.md)**
+
+**Akademik Radar**, bu kaosu düzenlemek için inşa edilmiş bir **Meta-Analiz ve İstihbarat Motorudur**. Şimdi **LIVE DATA (ArXiv)** desteği ile gerçek zamanlı çalışmaktadır.
+
+### 🔭 Vizyon (The Vision)
+Amacımız, statik bir arama motoru olmak değildir. Amacımız, akademik literatürün **canlı, nefes alan ve sürekli genişleyen bir haritasını** çizmektir.
+*   Biz sadece "ne olduğunu" göstermiyoruz.
+*   Biz "neyin gelmekte olduğunu" (**Predictive Trend Analysis**) gösteriyoruz.
+*   Görünmeyen bağlantıları (**Hidden Latent Links**) ortaya çıkarıyoruz.
 
 ---
 
-## 🔭 Temel Yetenekler (Core Capabilities)
+## 🧠 NEURAL ARCHITECTURE ve Teknik Derinlik
 
-| Modül | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| **🧠 Nöral Semantik Analiz** | Anahtar kelimelerin ötesinde, makalelerin "ne anlattığını" anlayan derin öğrenme motoru. | BERT / Transformers |
-| **🕸️ Atıf Kartografisi** | Bilginin yayılma haritasını çıkarır. Bir fikrin doğumundan bugüne yolculuğunu görselleştirir. | NetworkX / Graph Theory |
-| **⚡ Anomali Dedektörü** | Henüz popüler olmayan ama patlama potansiyeli taşıyan "sessiz sedasız" araştırmaları bulur. | Scikit-Learn |
-| **🔮 Trend Kahini** | Tarihsel veriyi analiz ederek, önümüzdeki 5 yılın popüler konularını tahminler. | Time Series Analysis |
+Bu platform, basit bir web kazıyıcı (scraper) değildir. Modern yapay zeka ve çizge teorisinin (Graph Theory) birleşiminden oluşan bir **Sibernetik Organizmadır**.
 
----
+### 1. Nöral Semantik Motor (The NLP Core)
+Kelime eşleşmesi (Keyword Matching) ilkeldir. Biz **Anlam Uzayı** (Semantic Space) kullanıyoruz.
+*   **Transformer Models:** `BERT` ve `SciBERT` modelleri kullanılarak her makale 768 boyutlu bir vektöre dönüştürülür.
+*   **Contextual Awareness:** "Viral Enfeksiyon" araması yaptığınızda, sistem "Sitokin Fırtınası" makalelerini de getirir, çünkü bu kavramların tıbbi uzayda komşu olduğunu matematiksel olarak bilir.
 
-## 🛠️ Mimari ve Teknoloji (System Architecture)
+### 2. Holografik Atıf Ağı (Holographic Citation Mesh)
+Bilgi lineer değildir; ağsaldır.
+*   **Graph Algorithms:** `PageRank` ve `HITS` algoritmalarıyla sadece çok atıf alanları değil, "merkeziyeti" (Centrality) yüksek olan kilit makaleleri (Hubs) tespit ediyoruz.
+*   **Community Detection:** `Louvain` algoritması ile disiplinler arası gizli kümeleri (Clusters) buluyoruz.
 
-Sistem, dağıtık veri kaynaklarından beslenen ve gerçek zamanlı analiz yapan bir boru hattı (pipeline) üzerine kuruludur.
+### 3. Zaman Serisi ve Anomali Tespiti (Temporal Oracle)
+*   **Weak Signal Detection:** Bir konu henüz "trend" olmadan önce, literatürde "zayıf sinyaller" verir. Sistemimiz bu anormallikleri (Anomalies) yakalar ve gelecekteki araştırma fonlarının nereye akacağını bugünden tahmin eder.
 
 ```mermaid
 graph TD
-    A[OpenAlex / CrossRef API] -->|Raw Data| B(Data Ingestion Layer)
-    A -->|Live Stream| B
-    B --> C{NLP Engine}
-    C -->|Vector Embeddings| D[Knowledge Graph]
-    C -->|Semantic Analysis| E[Trend Oracle]
-    D --> F[Visualizer Core]
-    E --> F
-    F --> G[Client Dashboard / CLI]
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
-    style G fill:#dfd,stroke:#333,stroke-width:4px
-```
+    subgraph "SENSORS (Veri Girişi)"
+    A[Global Makale Havuzu] -->|Ingestion| B(Raw Data Lake)
+    end
 
-*   **Veri Kaynağı:** OpenAlex, arXiv, Crossref.
-*   **İşlemci:** Python 3.9+, Pandas, Transformers.
-*   **Arayüz:** Yüksek performanslı CLI ve Web Dashboard (Geliştirme aşamasında).
+    subgraph "CORTEX (İşlem Merkezi)"
+    B --> C{Semantic Vectorizer}
+    B --> D{Graph Builder}
+    C -->|Embeddings| E[Vector Database]
+    D -->|Nodes & Edges| F[Graph Database]
+    end
+
+    subgraph "PRECOGNITION (Öngörü)"
+    E & F --> G[Trend Prediction Engine]
+    G --> H[Intelligence Dashboard]
+    end
+    
+    style C fill:#f9f,stroke:#333
+    style G fill:#bbf,stroke:#333
+```
 
 ---
 
-## 🚀 Hızlı Başlangıç (Quick Start)
+## 🔥 IGNITION: Sistemi Başlatma
 
-Bu teknolojiyi kendi makinenizde çalıştırmak ve keşfedilmemişi keşfetmek için:
+Akademik Radar, terminal tabanlı elit bir arayüze (CLI) sahiptir.
+
+### 💾 Kurulum (Installation)
 
 ```bash
 # 1. Depoyu klonlayın
 git clone https://github.com/bahattinyunus/AkademikRadar.git
-
-# 2. Dizine girin
 cd AkademikRadar
 
-# 3. Bağımlılıkları yükleyin
+# 2. Protokolleri yükleyin (Requirements)
 pip install -r core_requirements.txt
+```
 
-# 4. Radarı ateşleyin 🛰️
+### 🚀 Başlatma (Launch)
+
+Sistemi tam güçte çalıştırmak ve simülasyonu izlemek için:
+
+```bash
 python ignite_radar.py --full
 ```
 
+**Sistem Yanıtı (Örnek):**
+> *Scanning Frequency Bands...*
+> *Loading Neural Weights [####################] 100%*
+> *Detected Signal: Quantum Computing | Intensity: 97%*
+
 ---
 
-## 👨‍💻 Proje Mimarı (Project Architect)
+## 🗺️ STRATEGIC HORIZON (Roadmap 2030)
+
+*   **2025 Q3:** Gerçek zamanlı arXiv taraması entegrasyonu.
+*   **2026 Q1:** "Akademik LinkedIn" - Yazarlar arası işbirliği öneri motoru.
+*   **2028:** Tam Otonom Literatür Tarama (Siz konuyu verin, o size 100 sayfalık özet rapor yazsın).
+*   **2030:** **Project: OMNISCIENCE** - Tüm dünya dillerindeki makalelerin anlık evrensel çevirisi ve analizi.
+
+---
+
+## 👨‍💻 PROJECT ARCHITECT (System Creator)
 
 <div align="center">
 
 ### **Bahattin Yunus Çetin**
-*IT Architect*
+*Architect of Digital Systems | Data Visionary*
 
-*"Karmaşık sistemlerin kaosunda düzeni, veri yığınlarının içinde bilgeligi arıyorum."*
+*"I don't just write code; I weave logic into existence."*
 <br>
-Trabzon'un Of ilçesinden dünyaya açılan bir vizyonla, teknolojinin en uç noktalarını akademik dünyayla buluşturmayı hedefliyorum.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahattinyunus/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahattinyunus)
+Büyük veri okyanusunda bir deniz feneri inşa ediyorum. Trabzon'dan yönetilen bu operasyon, global bilginin sınırlarını zorlamayı hedefleyen bir **tek kişilik dev kadro** projesidir.
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bahattinyunus/)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/bahattinyunus)
 
 </div>
 
 ---
 
-**Akademik Radar** is Open Source software released under the [MIT License](LICENSE).
-*Searching the Unseen, Mapping the Unknown.*
+<div align="center">
+<sub>© 2024-2025 Akademik Radar Intelligence. All Systems Operational.</sub>
+</div>

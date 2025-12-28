@@ -1,0 +1,50 @@
+{
+    "Generative AI": [
+        {
+            "title": "Foundations of GenIR",
+            "published": "2025-01-06T08:38:29Z",
+            "link": "https://arxiv.org/abs/2501.02842v1",
+            "summary": "The chapter discusses the foundational impact of modern generative AI models on information access (IA) systems. In contrast to traditional AI, the large-scale training and superior data modeling of g...",
+            "relevance_score": 90
+        },
+        {
+            "title": "AI and the EU Digital Markets Act: Addressing the Risks of Bigness in Generative AI",
+            "published": "2023-07-07T16:50:08Z",
+            "link": "https://arxiv.org/abs/2308.02033v1",
+            "summary": "As AI technology advances rapidly, concerns over the risks of bigness in digital markets are also growing. The EU's Digital Markets Act (DMA) aims to address these risks. Still, the current framework ...",
+            "relevance_score": 93
+        }
+    ],
+    "Climate Engineering": [
+        {
+            "title": "Invasive species, extreme fire risk, and toxin release under a changing climate",
+            "published": "2020-08-03T17:22:18Z",
+            "link": "https://arxiv.org/abs/2008.01035v1",
+            "summary": "Mediterranean ecosystems such as those found in California, Central Chile, Southern Europe, and Southwest Australia host numerous, diverse, fire-adapted micro-ecosystems. These micro-ecosystems are as...",
+            "relevance_score": 88
+        },
+        {
+            "title": "Precipitation extremes under climate change",
+            "published": "2015-03-25T21:11:05Z",
+            "link": "https://arxiv.org/abs/1503.07557v1",
+            "summary": "The response of precipitation extremes to climate change is considered using results from theory, modeling, and observations, with a focus on the physical factors that control the response. Observatio...",
+            "relevance_score": 96
+        }
+    ],
+    "Neuromorphic Chips": [
+        {
+            "title": "Event Encryption: Rethinking Privacy Exposure for Neuromorphic Imaging",
+            "published": "2023-06-06T03:00:53Z",
+            "link": "https://arxiv.org/abs/2306.03369v3",
+            "summary": "Bio-inspired neuromorphic cameras sense illumination changes on a per-pixel basis and generate spatiotemporal streaming events within microseconds in response, offering visual information with high te...",
+            "relevance_score": 91
+        },
+        {
+            "title": "Fermions on atom chips",
+            "published": "2008-11-10T06:26:00Z",
+            "link": "https://arxiv.org/abs/0811.1401v3",
+            "summary": "We review our recent and ongoing work with Fermi gases on an atom chip. After reviewing some statistical and thermodynamic properties of the ideal, non-interacting Fermi gas, and a brief description o...",
+            "relevance_score": 91
+        }
+    ]
+}
